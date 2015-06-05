@@ -3,7 +3,7 @@
 * **Download**: [Download](640-3005-1-SM.pdf)
 * **Status**: TDWG draft standard
 * **Category**: Technical specification
-* **Permanent URL**: http://www.tdwg.org/standards/640/
+* **Permanent URL**: http://www.tdwg.org/standards/640
 * **TDWG task group**: Access to Biological Collections Data
 * **Date submitted**: 2010-09-01
 * **Last modified**: 2010-09-01
