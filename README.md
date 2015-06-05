@@ -1,6 +1,6 @@
 # ABCDDNA - DNA extension for Access to Biological Collection Data
 
-* **Download**: [Download](640-3005-1-SM.doc)
+* **Download**: [Download](640-3005-1-SM.pdf)
 * **Status**: TDWG draft standard
 * **Category**: Technical specification
 * **Permanent URL**: http://www.tdwg.org/standards/640/
