@@ -15,3 +15,7 @@ ABCDDNA is a theme specific extension for ABCD (Access to Biological Collections
 This document specifies the DNA extension for ABCD 2.06.
 
 ABCDDNA is a product of the DNA Bank Network. More details about the ABCDDNA schema as well as tools to implement and support ABCDDNA are available at "IT Tools and Manuals" http://www.dnabank-network.org/Downloads.php
+
+## Preferred citation
+
+> Access to Biological Collections Data task group. 2010. DNA extension for Access to Biological Collection Data (ABCDDNA), Version 2010-09-01. Biodiversity Information Standards (TDWG) http://www.tdwg.org/standards/640
